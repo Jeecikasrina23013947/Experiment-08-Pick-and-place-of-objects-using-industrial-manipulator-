@@ -81,39 +81,46 @@ and click on the connect icon
 
 3. click on the 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### output video and screen shots of pick and place 
 
-![WhatsApp Image 2024-04-22 at 13 36 05_17c9201a](https://github.com/Jeecikasrina23013947/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/148515300/1c5c1651-6b21-4203-9bfa-bb0cae9eab05)
+### SCREENSHOTS OF PICK AND PLACE :
+![IMG-20240422-WA0012](https://github.com/EzhilsreeJ/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870412/099dc8d7-6094-4c7d-9211-203b9e80eb2b)
+![IMG-20240422-WA0014](https://github.com/EzhilsreeJ/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870412/405d5405-7369-4937-821d-d71720856fcc)
+![IMG-20240422-WA0015](https://github.com/EzhilsreeJ/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870412/1757a913-6575-48c4-a39f-44412873eac3)
+![IMG-20240422-WA0017](https://github.com/EzhilsreeJ/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870412/22ce36a4-58b9-48b3-bdca-7b3da674f22e)
+![IMG-20240422-WA0019](https://github.com/EzhilsreeJ/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870412/cbb2a2c2-4dde-47d7-bfa2-8aaf2574ffa2)
+![IMG-20240422-WA0021](https://github.com/EzhilsreeJ/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870412/c9ee6c17-0630-48e5-947c-a34555b92e71)
+![IMG-20240422-WA0022](https://github.com/EzhilsreeJ/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870412/f22cb375-5689-4c52-951c-bf4938911b21)
+![IMG-20240422-WA0023](https://github.com/EzhilsreeJ/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870412/7a169acb-060d-424b-8ad8-af72dc3bdd2c)
+![IMG-20240422-WA0024](https://github.com/EzhilsreeJ/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870412/344e5552-182f-41a9-9488-0796f1fee7cf)
+![IMG-20240422-WA0025](https://github.com/EzhilsreeJ/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870412/f6a73ea9-5fe0-4bc6-ae23-bac764a9662f)
+![IMG-20240422-WA0027](https://github.com/EzhilsreeJ/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870412/69cef893-19c8-458b-9063-bd90528af373)
+![IMG-20240422-WA0028](https://github.com/EzhilsreeJ/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870412/ecdaab69-c61c-41c5-9f4d-bd7389ecc300)
 
-![WhatsApp Image 2024-04-22 at 13 36 06_a396433f](https://github.com/Jeecikasrina23013947/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/148515300/80979b7b-24a6-49c3-be59-9f500418e103)
-
-![WhatsApp Image 2024-04-22 at 13 36 06_c523ef2e](https://github.com/Jeecikasrina23013947/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/148515300/dec1f557-14c9-4d3b-af84-e17673f4093a)
-
-![WhatsApp Image 2024-04-22 at 13 36 07_15374b76](https://github.com/Jeecikasrina23013947/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/148515300/cf36dac8-e764-4db7-869e-7f50929a457d)
-
-![WhatsApp Image 2024-04-22 at 13 36 07_13413d91](https://github.com/Jeecikasrina23013947/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/148515300/0a04bb5b-a45e-4149-bd28-bf91a00f80eb)
-
-![WhatsApp Image 2024-04-22 at 13 36 08_74f053f3](https://github.com/Jeecikasrina23013947/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/148515300/6a9af352-070c-4f64-aa89-c1188e97a8d5)
-
-![WhatsApp Image 2024-04-22 at 13 36 08_46320c70](https://github.com/Jeecikasrina23013947/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/148515300/61bca76f-ec72-403d-88bc-cc360f363b86)
-
-![WhatsApp Image 2024-04-22 at 13 36 08_8f102116](https://github.com/Jeecikasrina23013947/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/148515300/dfbd7c36-6ea4-478b-94de-e52285f962f5)
-
-![WhatsApp Image 2024-04-22 at 13 36 09_263f0bf5](https://github.com/Jeecikasrina23013947/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/148515300/8153f7d1-a1f8-4111-b1c1-f20b2a4b3e9f)
-
-![WhatsApp Image 2024-04-22 at 13 36 10_3859b38f](https://github.com/Jeecikasrina23013947/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/148515300/e27e49e2-6d1a-4bea-a265-0953be42f819)
-
-![WhatsApp Image 2024-04-22 at 13 36 10_c0c564fb](https://github.com/Jeecikasrina23013947/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/148515300/941781f0-b215-4ba7-bf45-1a066276c5f0)
-
-![WhatsApp Image 2024-04-22 at 13 36 11_ea2e64d2](https://github.com/Jeecikasrina23013947/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/148515300/d4e603cf-460a-43da-b183-77548f9f10c9)
-
-##video:
+### VIDEO :
 
 https://drive.google.com/file/d/1GsM4AICQbh3Xir_Yrxd7LpUxl7VzH9TN/view?usp=drive_link
 
-### Results: 
 
-Thus the program for pick and place a regular shape using two finger gripper on the conveyor belt has been executed successfully.
+### Results: 
+Thus the program for  pick and place a regular shape using two finger gripper on the conveyor belt has been executed successfully.
 
 
 
